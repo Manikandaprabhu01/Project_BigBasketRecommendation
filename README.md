@@ -1,2 +1,2 @@
 # Project_BigBasketRecommendation
-# Most purchasing products recommendation system.
+# Most purchasing products recommendating to the users.
